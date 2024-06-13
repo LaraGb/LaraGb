@@ -1,8 +1,10 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Lara!
+
+I'm a dedicated developer with extensive experience in the world of web programming spanning many years. This has resulted in numerous projects within this field, but I don't just use programming in the web space. Programming is fully integrated into my daily life, not limited to just work; I use it for task automation, electronic prototyping for physical projects, and even hobbies like creating mods for games, although I'm not a professional game developer. In summary, programming is present in all aspects of my daily life, and if you want to learn more and follow me on my journey, just follow me on the social media channels below:
+
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Computer Science at the University of Salvador, Brazil<br/>
 🎨 Writing articles about codes, tech, and productivity on [Linkedin](https://www.linkedin.com/in/laragabriele/)<br/>
 🌷 #conectwithme in my [digital garden](https://www.linkedin.com/in/laragabriele/)<br/>
 💭 Currently learning and improving!<br/>
